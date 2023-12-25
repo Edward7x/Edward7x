@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Edward7x 👋
+
+**Hobbies**
+- 🔨 : .java, .js, .html, .css, .vue
 
 <!--
 **Edward7x/Edward7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
