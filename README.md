@@ -1,5 +1,9 @@
 ### Hi there, I am Edward7x 👋
 
+- 🎓 SYNU
+- 💻 CS
+- ⌨️ Software Developer
+
 **Hobbies**
 - 🔨 : .java, .js, .html, .css, .vue
 
