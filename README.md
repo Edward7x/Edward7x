@@ -1,11 +1,11 @@
-### Hi there, I am Edward7x 👋
+### Hi there, I am Eddie7x 👋
 
 - 🎓 SYNU
 - 💻 CS
 - ⌨️ Software Developer
 
 **Hobbies**
-- 🔨 : .java, .js, .html, .css, .vue
+- 🔨 : .java, .js, .html, .css, .vue, .py
 
 <!--
 **Edward7x/Edward7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
